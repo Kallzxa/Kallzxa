@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Kallzzxa]!</h1>
+<h1 align="center">Hi, I'm Kallzzxa!</h1>
 <p align="center">
   Developer | Scripter SA-MP | Web Dev | Python Enthusiast
 </p>
