@@ -37,7 +37,7 @@ Hello I'm Kall From Indonesian Age 14 And I'm Developer In world of samp
 
 | Project | Deskripsi | Bahasa |
 |--------|-----------|--------|
-| **SA-MP Roleplay** | Server RP lengkap dengan anticheat | Pawno |
+| **Risano Roleplay** | Risano RP lengkap dengan anticheat | Pawno |
 | **Web Tools Python** | Bot dan web API otomatis | Python |
 
 ---
